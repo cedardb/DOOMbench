@@ -1,0 +1,4 @@
+psycopg[binary]>=3.1
+tabulate>=0.9
+pillow>=12.2.0
+duckdb>=1.0
